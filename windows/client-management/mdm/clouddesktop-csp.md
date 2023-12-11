@@ -189,6 +189,7 @@ When the Shared PC mode is enabled by setting BootToCloudPCEnhanced value to 1:
     | Start Menu and Taskbar/Notifications/Turn off toast notifications                                                      | Enabled                               |
     | Start Menu and Taskbar/Notifications/Remove Notifications and Action Center                                            | Enabled                               |
     | System/Logon/Do not process the legacy run list                                                                        | Enabled                               |
+    | Windows Components/Windows Copilot/Turn off Windows Copilot                                                            | Enabled                               |
 
 - Following registry changes are performed:
 
@@ -218,6 +219,7 @@ When the Personal mode is enabled by setting BootToCloudPCEnhanced value to 2:
     | Start Menu and Taskbar/Notifications/Turn off toast notifications                                                      | Enabled                               |
     | Start Menu and Taskbar/Notifications/Remove Notifications and Action Center                                            | Enabled                               |
     | System/Logon/Do not process the legacy run list                                                                        | Enabled                               |
+    | Windows Components/Windows Copilot/Turn off Windows Copilot                                                            | Enabled                               |
 <!-- CloudDesktop-CspMoreInfo-End -->
 
 <!-- CloudDesktop-End -->
